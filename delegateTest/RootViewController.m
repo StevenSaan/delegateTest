@@ -24,6 +24,11 @@
 
 @implementation RootViewController
 
+
+/*
+ downLoad下载下来和 代码 没有关系  
+ clone 下载下来 和代码关联
+ */
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
